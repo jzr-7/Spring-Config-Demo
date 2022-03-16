@@ -1,2 +1,5 @@
 Bar: some-val
 Foo: another-val
+info:
+  description: Spring Config Demo
+  url: https://github.com/jzr-7/Spring-Config-Demo
